@@ -640,3 +640,6 @@ a.contextual-links-trigger, #toolbar a, textarea { -webkit-transition: none; -mo
 #logo img {
     height: 50px;
 }
+.dummyclass {
+    display:none;
+}
